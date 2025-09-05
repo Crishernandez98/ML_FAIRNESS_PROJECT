@@ -1,0 +1,501 @@
+age,gender,income,race,education,label
+56,Male,10235,Hispanic,High School,True
+46,Male,66372,Hispanic,High School,False
+32,Female,68691,Other,Masters,True
+60,Male,18899,White,High School,False
+25,Female,44859,White,Bachelors,False
+38,Female,44428,White,Bachelors,False
+56,Male,28887,Black,High School,True
+36,Male,38332,Asian,Masters,True
+40,Male,33341,White,High School,False
+28,Male,76284,Asian,Bachelors,False
+28,Male,64035,White,PhD,True
+41,Female,69073,Asian,Bachelors,True
+53,Male,60825,White,Masters,True
+57,Male,33064,White,High School,True
+41,Female,42132,White,Bachelors,False
+20,Male,57340,White,High School,True
+39,Female,31668,White,Bachelors,True
+19,Male,60694,White,PhD,False
+41,Male,46395,Hispanic,High School,True
+61,Female,44377,Black,Bachelors,False
+47,Female,60664,White,High School,False
+55,Female,56663,Black,Bachelors,False
+19,Female,44585,Hispanic,Bachelors,True
+38,Female,67389,White,PhD,True
+50,Male,33784,White,Bachelors,False
+29,Male,59239,White,High School,False
+39,Female,58896,White,High School,False
+61,Female,45356,Black,High School,True
+42,Female,54891,White,High School,False
+44,Male,31233,Black,High School,False
+59,Male,63860,Hispanic,Masters,True
+45,Female,47226,White,Bachelors,False
+33,Male,42159,Black,Bachelors,False
+32,Female,65735,White,High School,False
+64,Female,39434,Other,Masters,True
+61,Male,28873,White,Bachelors,True
+20,Female,26650,Hispanic,High School,True
+54,Female,59090,Black,Bachelors,False
+24,Male,30793,White,Bachelors,True
+38,Female,76321,Black,High School,True
+26,Male,18771,Other,Bachelors,True
+56,Female,75446,Black,Bachelors,True
+35,Male,53165,Hispanic,High School,False
+21,Female,48549,Asian,Masters,False
+42,Male,41826,White,Masters,True
+31,Male,55987,White,Bachelors,False
+26,Female,49435,Black,Bachelors,False
+43,Male,66549,White,Bachelors,True
+19,Male,51713,Hispanic,Bachelors,True
+37,Female,52254,Asian,Bachelors,False
+45,Female,44545,White,High School,False
+64,Male,49145,White,Bachelors,False
+24,Female,54617,Hispanic,Masters,True
+61,Male,24347,White,Bachelors,True
+25,Male,29777,Hispanic,High School,False
+64,Male,61148,White,Masters,True
+52,Female,52562,Black,High School,True
+31,Female,47240,White,High School,True
+34,Female,50276,Black,High School,False
+53,Female,55213,White,High School,False
+57,Male,41903,Black,Masters,True
+21,Male,38325,White,Bachelors,False
+19,Male,52937,Hispanic,High School,True
+23,Male,35324,Asian,Masters,True
+59,Male,56123,White,Masters,True
+21,Female,24461,White,Masters,False
+46,Male,65437,White,High School,False
+35,Male,57088,Black,Bachelors,False
+43,Male,53840,Black,PhD,True
+61,Female,64740,Black,Masters,True
+51,Female,74982,White,High School,True
+27,Male,65215,White,High School,False
+53,Male,22386,Black,Bachelors,False
+31,Female,30806,White,Masters,True
+48,Male,40627,Other,Bachelors,False
+32,Female,50391,White,Bachelors,False
+25,Female,57764,Black,High School,True
+31,Male,39113,White,Bachelors,False
+40,Male,52801,White,Masters,True
+57,Female,38669,Hispanic,High School,False
+38,Male,40827,Black,Masters,False
+33,Male,28900,Other,PhD,False
+62,Female,36151,White,High School,False
+35,Female,29724,White,Bachelors,False
+64,Female,35361,Hispanic,High School,True
+41,Female,65804,Black,Masters,False
+43,Male,35759,White,Bachelors,True
+42,Male,89485,White,Bachelors,True
+62,Female,57399,White,Masters,True
+58,Male,52772,Asian,High School,True
+46,Male,37124,White,Masters,True
+32,Female,60504,White,Bachelors,True
+62,Male,41365,White,High School,False
+18,Male,51830,White,Bachelors,True
+42,Male,88401,White,Masters,True
+24,Male,48559,Black,High School,False
+26,Male,67239,White,Masters,True
+41,Male,39452,Hispanic,Masters,True
+18,Male,49475,White,High School,False
+61,Female,76562,Black,PhD,True
+25,Female,40595,Asian,High School,False
+41,Male,77186,Black,High School,True
+28,Female,60616,Black,High School,True
+34,Male,41562,White,Masters,False
+25,Male,59486,White,Bachelors,True
+52,Female,64588,Black,High School,True
+52,Male,59327,Other,Bachelors,True
+50,Female,26446,Black,Bachelors,True
+22,Male,39092,Black,High School,False
+59,Female,46287,Hispanic,Masters,True
+56,Male,48883,White,Masters,False
+58,Female,59310,White,Bachelors,False
+45,Male,52665,Black,PhD,True
+24,Female,29969,Other,Bachelors,False
+26,Male,55702,White,PhD,True
+25,Male,59158,Black,Bachelors,False
+29,Female,58396,White,Bachelors,True
+51,Male,66211,Black,High School,False
+50,Female,62508,White,Masters,True
+40,Female,56887,White,Bachelors,True
+41,Male,48947,Hispanic,High School,False
+54,Female,25085,White,High School,False
+52,Male,56444,Black,Bachelors,True
+61,Female,53115,Hispanic,Bachelors,True
+57,Male,54073,Asian,Bachelors,False
+39,Male,30848,White,Masters,True
+44,Female,33784,White,High School,False
+52,Female,65797,White,Bachelors,False
+18,Male,49406,Other,High School,False
+52,Female,60222,Asian,Masters,False
+54,Male,50424,Black,Masters,True
+64,Male,50446,Hispanic,Bachelors,True
+31,Male,64074,Black,Bachelors,False
+20,Male,42259,Black,High School,False
+18,Male,51441,White,Bachelors,True
+22,Male,43065,Hispanic,Masters,True
+43,Female,43482,White,Bachelors,False
+31,Female,45362,Hispanic,High School,False
+56,Female,53332,Hispanic,Bachelors,False
+44,Male,42818,Hispanic,Masters,True
+26,Male,68836,White,High School,True
+32,Female,36580,White,High School,True
+32,Female,47196,White,Bachelors,True
+43,Male,43404,White,Masters,True
+59,Female,71704,White,High School,False
+30,Female,52948,Asian,High School,False
+49,Female,65477,Black,High School,False
+56,Female,27716,White,High School,False
+49,Female,54005,White,Bachelors,True
+21,Male,63344,White,Bachelors,True
+47,Female,51234,Black,Bachelors,False
+54,Female,65982,Black,Bachelors,False
+40,Male,42240,Asian,High School,True
+56,Male,71140,White,Masters,True
+62,Male,84483,Other,Bachelors,False
+32,Female,44557,Asian,PhD,True
+60,Female,43317,White,Bachelors,True
+46,Male,71800,Asian,High School,False
+53,Male,73693,White,Bachelors,False
+30,Male,42157,Hispanic,High School,True
+49,Female,43697,White,Bachelors,False
+24,Female,45773,Asian,High School,False
+39,Female,29833,Asian,High School,False
+45,Male,36220,Hispanic,Masters,True
+19,Male,34937,Hispanic,High School,False
+59,Male,38483,White,Masters,True
+62,Male,49479,White,High School,True
+23,Female,53513,White,Bachelors,True
+45,Female,73257,White,Bachelors,True
+45,Female,35024,Black,Bachelors,False
+61,Female,64764,White,High School,True
+61,Male,46790,Other,High School,False
+37,Female,49258,Black,High School,True
+47,Female,60122,Hispanic,High School,True
+28,Female,33159,White,Bachelors,True
+45,Male,55736,Asian,Masters,True
+42,Male,52496,Asian,Masters,True
+56,Male,57386,White,Masters,True
+50,Female,54337,Black,Masters,True
+18,Female,86829,Hispanic,Bachelors,True
+44,Male,40433,White,High School,False
+30,Female,42035,Black,Masters,False
+58,Female,40652,White,Bachelors,True
+20,Male,41667,White,Bachelors,True
+56,Male,40439,White,High School,False
+23,Female,67835,White,Bachelors,True
+25,Male,71307,White,Bachelors,True
+44,Female,41438,White,Masters,True
+26,Male,37514,Other,Bachelors,False
+54,Female,57071,Black,High School,False
+50,Male,41716,Other,PhD,True
+59,Male,59493,White,High School,False
+61,Female,53043,White,Bachelors,True
+41,Male,27263,Black,High School,True
+32,Male,73212,White,Bachelors,False
+49,Male,76938,White,Masters,True
+49,Female,40808,Black,High School,True
+41,Female,44184,White,Masters,True
+58,Female,54287,Black,High School,True
+29,Male,55016,Black,Masters,True
+56,Male,59878,White,Masters,False
+19,Male,80153,White,Masters,True
+20,Male,47345,Hispanic,High School,True
+54,Male,38025,White,PhD,True
+34,Male,29310,White,Bachelors,True
+19,Male,39036,Other,High School,True
+19,Female,49503,White,Masters,False
+45,Male,76918,Black,High School,False
+40,Male,42235,Other,Masters,False
+54,Female,53356,White,High School,True
+49,Male,49753,White,Bachelors,False
+50,Female,67825,White,Bachelors,False
+18,Female,87903,White,High School,False
+36,Female,42036,White,High School,False
+19,Male,42658,Black,High School,True
+61,Female,65662,White,Bachelors,True
+43,Male,60228,Black,High School,True
+49,Male,77700,Other,Bachelors,True
+23,Male,58758,Hispanic,High School,True
+49,Female,44610,Black,High School,False
+21,Male,58859,White,Bachelors,False
+28,Male,66630,Black,High School,True
+34,Female,62307,Black,Masters,True
+55,Male,57609,White,Masters,False
+41,Male,66000,White,Bachelors,False
+22,Male,67539,Asian,Bachelors,False
+51,Male,70732,White,Masters,False
+23,Male,59730,White,High School,False
+39,Male,47493,White,High School,False
+28,Female,52200,White,High School,True
+33,Male,68097,Hispanic,Masters,True
+50,Male,37745,Hispanic,High School,True
+26,Female,55530,Hispanic,Bachelors,True
+23,Male,44099,White,PhD,True
+33,Female,50431,White,Masters,False
+46,Male,69176,White,Bachelors,False
+20,Male,52866,White,High School,False
+37,Male,50696,White,Masters,True
+53,Male,29602,Hispanic,Bachelors,False
+36,Male,61193,White,High School,True
+43,Male,59682,Black,High School,True
+20,Male,82448,White,Masters,True
+36,Male,45383,White,Bachelors,True
+37,Male,53287,White,Masters,True
+49,Male,53740,Other,Masters,False
+24,Male,73661,Hispanic,Bachelors,True
+58,Male,48570,Other,Bachelors,False
+50,Female,54185,White,Bachelors,False
+57,Male,59118,White,High School,False
+56,Female,52799,Black,Bachelors,True
+35,Female,43303,White,Masters,True
+57,Male,52911,Hispanic,Bachelors,True
+18,Female,66104,White,Masters,True
+28,Female,34602,White,Bachelors,False
+45,Male,51994,White,Bachelors,True
+42,Male,39498,White,Bachelors,False
+40,Female,67925,Hispanic,Bachelors,False
+48,Female,27152,White,Bachelors,True
+47,Male,41616,White,High School,False
+59,Male,55658,White,Bachelors,False
+52,Male,73482,White,High School,True
+24,Male,49013,Hispanic,High School,True
+33,Female,41672,Asian,Bachelors,False
+43,Male,78217,Other,Bachelors,True
+19,Male,28279,Hispanic,PhD,True
+18,Female,17017,White,Bachelors,False
+29,Male,56600,Black,Bachelors,True
+22,Male,42469,White,Bachelors,True
+54,Female,34681,White,Bachelors,False
+49,Female,60625,Hispanic,High School,True
+26,Male,53657,White,High School,True
+58,Male,41538,Asian,High School,False
+52,Male,30795,White,Bachelors,False
+36,Male,63086,Black,High School,False
+33,Male,59753,Black,High School,False
+20,Male,48512,Asian,High School,True
+37,Male,77699,Black,PhD,False
+41,Male,33948,Black,High School,True
+50,Male,27117,White,Bachelors,False
+41,Male,39621,Black,High School,False
+28,Male,49316,White,Bachelors,False
+25,Male,53650,Hispanic,High School,False
+53,Male,46381,Black,High School,False
+55,Female,55280,Black,Bachelors,True
+57,Male,31226,White,High School,True
+37,Female,71656,White,High School,True
+52,Female,48767,Hispanic,High School,True
+42,Male,66759,White,High School,True
+52,Male,55140,White,High School,False
+42,Male,56851,White,High School,True
+46,Male,58546,Other,Masters,False
+35,Female,56715,Hispanic,Bachelors,False
+63,Male,59640,White,Bachelors,False
+35,Male,69937,White,High School,False
+19,Male,52947,White,Masters,True
+52,Male,60635,Hispanic,High School,False
+33,Female,48653,Black,High School,False
+58,Male,71601,White,Bachelors,True
+53,Male,39854,White,High School,True
+50,Female,77014,White,High School,False
+21,Female,49397,Black,Bachelors,True
+50,Male,28538,Hispanic,Masters,False
+31,Male,51921,White,Bachelors,False
+38,Male,39784,White,Bachelors,True
+37,Male,62609,White,PhD,True
+25,Male,40210,Other,High School,False
+24,Male,43307,White,High School,True
+20,Male,21656,Hispanic,High School,True
+34,Male,43215,Black,Bachelors,True
+50,Female,13641,White,Bachelors,True
+29,Male,26241,White,Masters,False
+39,Male,61406,White,Bachelors,True
+39,Male,61787,Black,Bachelors,False
+63,Female,56381,Hispanic,High School,True
+47,Male,35495,Black,Masters,True
+55,Male,49284,Black,PhD,False
+55,Female,49945,White,Masters,False
+62,Female,32624,Other,High School,True
+25,Female,72550,Hispanic,Bachelors,True
+44,Male,63160,White,High School,True
+44,Male,46685,Other,High School,False
+51,Female,50403,Black,High School,False
+38,Female,53125,Black,Bachelors,True
+47,Male,19373,Hispanic,Bachelors,True
+50,Male,46292,Hispanic,High School,True
+45,Male,39770,Black,High School,False
+64,Female,34975,White,Bachelors,False
+50,Male,45783,White,High School,True
+22,Male,76965,Asian,High School,False
+36,Male,59612,White,Bachelors,True
+21,Male,41432,White,Masters,True
+52,Male,58588,White,High School,False
+34,Male,70990,White,High School,False
+61,Female,63869,Black,High School,False
+45,Male,50894,Asian,Masters,True
+47,Male,40295,White,Bachelors,True
+46,Male,60473,White,Bachelors,False
+63,Male,55902,White,High School,True
+23,Male,63427,Asian,Bachelors,True
+52,Male,59527,Black,High School,True
+58,Male,65743,White,Bachelors,True
+54,Male,41971,Hispanic,Masters,True
+41,Male,69760,Asian,Bachelors,True
+46,Female,52963,Hispanic,Masters,False
+63,Male,81128,Asian,Bachelors,True
+48,Female,39662,White,High School,False
+52,Male,76039,Hispanic,Masters,True
+50,Female,52968,White,High School,True
+38,Female,40228,Hispanic,Bachelors,True
+49,Male,42741,Hispanic,High School,True
+40,Male,45194,Hispanic,High School,False
+50,Male,56362,Black,Bachelors,True
+20,Male,57842,White,High School,False
+35,Female,41394,Black,Bachelors,False
+42,Female,49634,Other,Bachelors,False
+59,Female,82134,Asian,High School,False
+48,Male,75913,White,High School,True
+20,Female,56544,White,Bachelors,False
+57,Female,50570,White,High School,True
+63,Male,51800,Hispanic,Bachelors,True
+41,Male,59202,Hispanic,Bachelors,False
+49,Female,34658,White,Masters,False
+64,Male,46139,Black,Bachelors,False
+39,Female,24971,Hispanic,Bachelors,False
+40,Male,55988,Hispanic,Bachelors,False
+19,Female,59707,Black,High School,False
+44,Male,42752,Black,High School,False
+59,Male,73609,Black,Masters,True
+19,Male,31613,White,Bachelors,False
+43,Female,28034,Black,Masters,True
+34,Female,53366,Black,Masters,True
+57,Male,65706,Asian,Masters,False
+50,Male,75258,Black,Masters,True
+26,Female,43116,Hispanic,Bachelors,True
+60,Male,66180,White,High School,True
+56,Female,49422,White,Bachelors,False
+46,Male,47410,White,High School,False
+59,Male,63254,White,Bachelors,True
+43,Male,59784,Hispanic,Bachelors,False
+52,Male,26354,Other,Bachelors,False
+42,Female,72148,White,High School,True
+41,Male,70701,White,High School,True
+30,Male,40616,Hispanic,Bachelors,False
+24,Female,55937,White,High School,False
+53,Male,57410,Black,Masters,True
+62,Male,53910,Hispanic,High School,False
+37,Female,41745,Black,High School,False
+18,Female,39925,White,High School,True
+25,Male,49616,White,Bachelors,True
+63,Female,67590,Hispanic,Bachelors,True
+33,Female,58154,Black,High School,True
+31,Male,44440,White,High School,False
+29,Male,61575,Hispanic,Bachelors,True
+40,Female,7271,White,High School,False
+32,Female,67231,Hispanic,Bachelors,False
+45,Male,23904,White,Bachelors,True
+51,Female,44563,Other,High School,False
+19,Female,33204,White,High School,True
+49,Male,30579,White,PhD,True
+40,Male,67412,White,Bachelors,True
+39,Male,42984,White,Bachelors,True
+42,Female,55197,Asian,High School,True
+39,Male,49296,Other,Bachelors,False
+39,Male,57155,White,High School,False
+59,Female,51152,White,Bachelors,True
+23,Female,30755,Hispanic,PhD,False
+32,Male,64944,Asian,High School,False
+60,Female,42593,Black,High School,False
+54,Male,26651,White,High School,True
+50,Female,43578,White,High School,True
+25,Male,72511,Black,High School,True
+61,Male,62753,White,High School,False
+61,Female,44770,Black,Masters,False
+22,Male,44761,White,Bachelors,True
+56,Male,45175,Hispanic,High School,True
+21,Female,81151,White,Masters,False
+23,Female,55729,Black,High School,False
+62,Female,56450,White,PhD,False
+49,Female,65454,Black,High School,False
+47,Male,53581,White,Masters,True
+64,Male,46114,Black,Bachelors,False
+52,Male,47054,Black,Masters,False
+57,Male,48925,Black,PhD,True
+33,Female,49441,Black,High School,False
+30,Male,60914,Black,PhD,True
+59,Male,50779,Hispanic,High School,True
+47,Male,60989,White,High School,False
+36,Female,48789,Hispanic,High School,False
+34,Male,51179,White,Bachelors,False
+36,Male,20026,White,High School,True
+45,Male,63744,White,Bachelors,True
+43,Female,55197,White,Bachelors,False
+54,Male,64970,Hispanic,Masters,True
+43,Female,6556,Hispanic,Masters,False
+40,Female,81325,Hispanic,Bachelors,False
+26,Male,47906,Black,High School,True
+29,Female,66622,White,High School,True
+18,Female,34401,White,High School,False
+18,Female,59191,White,High School,True
+64,Male,34198,White,High School,False
+51,Male,40643,White,High School,False
+49,Female,78710,White,PhD,True
+42,Male,47139,Black,Bachelors,False
+57,Female,53261,Hispanic,High School,False
+62,Female,63051,Other,Bachelors,False
+18,Female,57435,Asian,High School,False
+33,Male,52256,Black,Bachelors,False
+56,Male,55474,White,Bachelors,False
+22,Female,86051,Black,Bachelors,True
+39,Female,49135,Hispanic,Bachelors,False
+46,Male,53016,White,PhD,True
+20,Female,65759,White,Masters,True
+29,Female,66582,Hispanic,Bachelors,True
+43,Male,67805,White,Bachelors,False
+33,Male,59580,Black,Bachelors,False
+54,Male,32854,Black,High School,False
+39,Male,74501,White,High School,False
+46,Male,32804,White,High School,False
+31,Female,54539,White,Bachelors,False
+45,Male,38685,White,Bachelors,True
+22,Male,49037,White,High School,True
+64,Male,54931,Hispanic,PhD,True
+47,Male,54820,White,Masters,False
+63,Female,56328,Black,Bachelors,False
+22,Male,74205,White,Bachelors,True
+29,Male,56803,Asian,Masters,True
+33,Female,46337,White,High School,False
+43,Male,64461,White,Masters,True
+43,Male,67842,Asian,High School,False
+38,Male,31585,Hispanic,Masters,False
+56,Male,58961,White,High School,True
+53,Male,60517,Hispanic,Masters,True
+50,Male,45536,White,Masters,False
+47,Male,70635,White,High School,False
+54,Female,47749,White,Bachelors,False
+40,Male,51883,White,PhD,False
+27,Male,47403,Hispanic,Bachelors,True
+22,Female,50233,White,Masters,True
+53,Male,33555,White,Bachelors,False
+51,Female,28399,Hispanic,High School,False
+48,Male,73917,Hispanic,High School,True
+27,Female,37295,White,High School,False
+36,Male,35129,Black,Masters,True
+49,Male,17699,White,High School,True
+18,Male,40415,Hispanic,Bachelors,True
+22,Female,30153,Black,Bachelors,False
+62,Male,74630,Other,Bachelors,True
+21,Male,65147,White,Masters,True
+33,Male,39677,White,PhD,True
+41,Female,83786,White,Bachelors,False
+33,Male,64726,White,Masters,True
+19,Female,45127,White,Masters,False
+45,Male,12508,Asian,Bachelors,True
+49,Male,84364,White,PhD,True
+44,Male,29156,White,High School,False
+37,Male,25319,Hispanic,High School,False
+41,Male,65338,White,Masters,False
+29,Male,86596,Hispanic,Bachelors,True
+52,Female,70764,White,Masters,True
+50,Male,58458,White,Masters,True
